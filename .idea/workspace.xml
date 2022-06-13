@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d709cb9-10c3-45e1-bfe3-504da985b4d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Main.java" afterDir="false" />
+    <list default="true" id="8d709cb9-10c3-45e1-bfe3-504da985b4d3" name="Changes" comment="Class 6 - OOP">
+      <change afterPath="$PROJECT_DIR$/src/test/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/CarMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Classes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.CarMain">
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.CarMain" />
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Main" />
       <module name="JavaFundamentals" />
@@ -90,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main.Functions" />
         <item itemvalue="Application.main.Operators" />
@@ -113,8 +124,30 @@
       <workItem from="1655087521624" duration="1409000" />
       <workItem from="1655092459774" duration="126000" />
       <workItem from="1655092593337" duration="125000" />
-      <workItem from="1655126633103" duration="99000" />
+      <workItem from="1655126633103" duration="3398000" />
     </task>
+    <task id="LOCAL-00001" summary="Create classes and attributes">
+      <created>1655132839113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655132839113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Functions and objects">
+      <created>1655132855666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655132855666</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Class 6 - OOP">
+      <created>1655132884450</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655132884450</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +163,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create classes and attributes" />
+    <MESSAGE value="Functions and objects" />
+    <MESSAGE value="Class 6 - OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 6 - OOP" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
