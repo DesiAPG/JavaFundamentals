@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d709cb9-10c3-45e1-bfe3-504da985b4d3" name="Changes" comment="Class 6 - OOP">
-      <change afterPath="$PROJECT_DIR$/src/test/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/CarMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Classes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8d709cb9-10c3-45e1-bfe3-504da985b4d3" name="Changes" comment="Class 6 - OOP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +118,7 @@
       <workItem from="1655087521624" duration="1409000" />
       <workItem from="1655092459774" duration="126000" />
       <workItem from="1655092593337" duration="125000" />
-      <workItem from="1655126633103" duration="3398000" />
+      <workItem from="1655126633103" duration="3837000" />
     </task>
     <task id="LOCAL-00001" summary="Create classes and attributes">
       <created>1655132839113</created>
@@ -147,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655132884450</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Class 6 - OOP">
+      <created>1655139151882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655139151882</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
